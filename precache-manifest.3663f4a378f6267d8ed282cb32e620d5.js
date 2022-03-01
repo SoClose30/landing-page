@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/landing-page/static/media/wallet.75197963.png"
   },
   {
-    "revision": "9c194cafb04003bbe938d071890b5445",
-    "url": "/landing-page/static/media/gplogo.9c194caf.svg"
-  },
-  {
     "revision": "4d995515c1cf81085df61c9d4ed0f5ca",
     "url": "/landing-page/static/media/apple.4d995515.svg"
+  },
+  {
+    "revision": "9c194cafb04003bbe938d071890b5445",
+    "url": "/landing-page/static/media/gplogo.9c194caf.svg"
   },
   {
     "revision": "ea4e1d80a509fa3d9a377b1a916d5989",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/landing-page/static/media/card-front-color.85088f8f.png"
   },
   {
-    "revision": "c0569d58eafc7be238c4ad41d7175f61",
+    "revision": "5ed1d43875a465707b9642221c972d79",
     "url": "/landing-page/index.html"
   }
 ];
