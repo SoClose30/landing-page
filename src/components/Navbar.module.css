@@ -1,0 +1,33 @@
+
+
+.headernav {
+    width: 100%;
+    height: 70px;
+    background: #151515;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    z-index: 200;
+}
+
+.navlogo {
+    color: #F2F2F2;
+    font-weight: 400;
+    font-size: clamp(15px, 1.5vw, 1.5vw);
+}
+
+.navlogo::first-letter {
+    color: #3C3;
+}
+
+.navbtn {
+    background: none;
+    border: 1px solid #3C3;
+    color: #3C3;
+    padding: 10px 10px;
+    cursor: pointer;
+}

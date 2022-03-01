@@ -1,0 +1,95 @@
+
+
+.main {
+    background: #f2F2F2;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.maintitle {
+    color: #3C3;
+    font-size: clamp(12px, 4vw, 4vw);
+    font-weight: 700;
+    text-shadow: 0 5px 0 #33CC3377;
+    margin: 80px 0;
+}
+
+.presentation {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: #3C3;
+}
+
+.presentationtext {
+    width: 50%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(12px, 4vw, 4vw);
+    font-weight: 700;
+    color: #f2F2F2;
+}
+
+.presentationimage {
+    width: 50%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("./assets/wallet.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    filter: drop-shadow(0 0 20px rgba(0,0,0,.4));
+}
+
+.presentationtext2 {
+    width: 50%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(12px, 4vw, 4vw);
+    font-weight: 700;
+    color: #3C3;
+}
+
+.presentation2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.presentationimage2 {
+    width: 50%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("./assets/rocket.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    filter: drop-shadow(0 0 20px rgba(0,0,0,.4));
+}
+
+.presentationimage3 {
+    width: 50%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("./assets/shield.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    filter: drop-shadow(0 0 20px rgba(0,0,0,.4));
+}
